@@ -309,21 +309,9 @@ Frontend (Next.js)
 
 MIT License
 
----
-
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Commit edin (`git commit -m 'Add amazing feature'`)
-4. Push edin (`git push origin feature/amazing-feature`)
-5. Pull Request açın
-
----
-
 ## 📞 İletişim
 
 Sorularınız için issue açabilirsiniz.
-#   L m s - r e a c t - p a g e - b u i l d e r 
  
  
+
